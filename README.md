@@ -36,7 +36,7 @@ The Mini-Scala DataFrame Library is a lightweight and efficient implementation o
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaydxyz/mini-dataframe-library.git
+   git clone https://github.com/jayinmt/mini-dataframe-library.git
    ```
 
 2. Navigate to the project directory:
